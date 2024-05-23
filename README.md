@@ -1,8 +1,5 @@
 # piano-rs
 
-![Rust Toolchain](https://img.shields.io/badge/rust-stable-brightgreen.svg)
-[![Build Status](https://travis-ci.org/ritiek/piano-rs.svg?branch=master)](https://travis-ci.org/ritiek/piano-rs)
-
 A multiplayer piano using UDP sockets that can be played using computer keyboard, in the terminal.
 
 ## Screenshots
